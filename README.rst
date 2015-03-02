@@ -1,0 +1,1 @@
+Just a repo for ELC 2015 slides and stuff; see prebuilt directory for PDFs or other binary output.

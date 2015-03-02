@@ -1,0 +1,35 @@
+Security Architecture in the IOT Age
+
+Once upon a time, most embedded devices were designed for a narrow purpose
+and only communicated with other devices within a closed system, if at all.
+Modern embedded Linux devices rarely fit that description -- they are normally
+networked into a larger system, taking advantage of Linux's strength in
+networking. Unfortunately, embedded engineers all too often fail to
+spend enough time understanding and mitigating security risks faced by
+networked devices; recent CVE summaries for popular Linux home routers provide
+some glaring examples of insufficient attention to security.
+
+With the growing trend towards more and more network-centric devices,
+it is critical that embedded engineers increase their attention to security  
+while developing products, rather than merely reacting to specific exploits
+discovered after release. A good starting point is to learn and apply security 
+architecture best practices that have been documented over the years by 
+system architects/engineers using a modern "system of systems" approach
+and the latest NIST standards, guidance, and risk management framework.
+
+
+900 character version:
+
+Modern embedded Linux systems are now normally networked into a larger 
+system, taking advantage of Linux's strength in networking.  Unfortunately, 
+embedded engineers all too often fail to spend enough time understanding 
+and mitigating security risks faced by networked devices; recent CVE 
+summaries for popular Linux home routers provide some glaring examples
+of insufficient attention to security.  Today it is critical that embedded
+engineers increase their attention to security while developing products,
+rather than merely reacting to specific exploits discovered after release. A
+good starting point is to learn and apply security  architecture best practices
+that have been documented over the years by system architects/engineers
+using a modern "system of systems" approach and the latest NIST standards,
+guidance, and risk management framework.
+
