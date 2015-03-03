@@ -1,0 +1,33 @@
+* buildroot has low learning curve
+  * design goal for simplicity
+  * 'make' and 'patch' are in developer Lingua Franca
+    (parlez vous 'make'?)
+  * solid documentation
+* buildroot for MMU-less cpus
+  * MMU-less support status as of March 2015
+    * blackfin - definitely works, vendor supported
+    * SH (superh) and xtensa nommu - basic rootfs compiles, probably works?
+    * arm nommu - build fails
+      * too bad this is most likely what you are most interested in
+  * still most likely successor to uclinux-dist
+    * extensive uclibc support
+      * all packages tested against uclibc
+    * at least blackfin works as example
+
+* buildroot basics
+  * directory layout
+  * high-level workflow
+
+* buildroot customization
+  * local changes vs upstreamable changes
+  * external toolchain
+  * configuration
+    * toplevel system
+    * key packages (busybox, kernel, uclibc)
+  * skeleton
+  * add patches
+  * add packages
+  * odds and ends
+    * static devices
+    * file permissions/ownership
+    * extra user accounts
