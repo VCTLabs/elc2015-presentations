@@ -26,6 +26,9 @@
   * external toolchain
   * configuration
     * toplevel system
+      * target selection
+      * package selection
+      * rootfs format
     * key packages (busybox, kernel, uclibc)
   * skeleton
   * add patches
