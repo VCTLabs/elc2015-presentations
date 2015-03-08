@@ -7,6 +7,7 @@
   * MMU-less support status as of March 2015
     * blackfin - definitely works, vendor supported
     * SH (superh) and xtensa nommu - basic rootfs compiles, probably works?
+    * nommu flavor of fpga cpus - know someone successfully using basic rootfs
     * arm nommu - build fails
       * too bad this is most likely what you are most interested in
   * still most likely successor to uclinux-dist
@@ -19,14 +20,22 @@
   * high-level workflow
 
 * buildroot customization
-  * local changes vs upstreamable changes
+  * upstreamable changes vs local changes
+    * git branch
+    * overlay repo
   * external toolchain
   * configuration
     * toplevel system
+      * target selection
+      * package selection
+      * rootfs format
     * key packages (busybox, kernel, uclibc)
   * skeleton
   * add patches
   * add packages
+    * autotools, cmake, python, perl, lua, erlang
+    * virtual (jpeg, udev, opengl)
+    * generic
   * odds and ends
     * static devices
     * file permissions/ownership
