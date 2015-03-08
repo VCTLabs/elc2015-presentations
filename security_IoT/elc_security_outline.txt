@@ -1,0 +1,122 @@
+Information Assurance Environment Home
+http://iase.disa.mil/index2.html
+
+
+New - Cybersecurity Guidance for DoD! - The new cybersecurity overarching guidance for 
+DoD has been published.  Included are two new DoD instructions:
+DoDI 8500.01, "Cybersecurity," replacing previous information assurance (IA) guidance.
+DoDI 8510.01, "Risk Management Framework (RMF) for DoD Information Technology (IT)," 
+replacing the previous DIACAP guidance with an assessment and authorization (A&A) process. 
+Date: Mar 28, 2014
+
+DIACAP
+Department of Defense Information Assurance Certification and Accreditation Process 
+(DIACAP) Instruction  This DoD Instruction replaces existing DITSCAP guidance under 
+DoDI 5200.40 and DoD 8510.1-M.
+Date: Nov 28, 2007
+
+
+RMF Training Video Presentation
+Cybersecurity and Risk Management Framework Implementation - Date: May 8, 2014
+http://iase.disa.mil/rmf/videos/rmf_v3.wmv
+
+RMF Training Slide Presentations
+Cybersecurity and the Risk Management Framework - Date: April 4, 2014
+http://iase.disa.mil/rmf/01_RMF_for_DoD_IT_v3.pptx
+
+Risk Management Framework Implementation - Date: April 4, 2014
+http://iase.disa.mil/rmf/02_RMF_for_DoD_IT_Implementation_v4.pptx
+
+
+RMF for DoD IT Documents
+
+DoDI 8510.01
+http://www.dtic.mil/whs/directives/corres/pdf/851001_2014.pdf
+Risk Management Framework (RMF) for DoD Information Technology (IT)
+This DoD Instruction replaces the previous DIACAP guidance under 
+DoDI 8510.01, November 28, 2007.
+Date: March 12, 2014
+
+DoDI 8500.01
+http://www.dtic.mil/whs/directives/corres/pdf/850001_2014.pdf
+Cybersecurity
+"Cybersecurity," replacing previous information assurance (IA) guidance.
+Date: March 14, 2014
+
+
+Security Requirements Guides (SRGs)
+http://iase.disa.mil/srgs/index.html
+Security Requirement Guide (SRG) - A compilation of Control Correlation 
+Identifiers (CCIs) grouped into more applicable, specific technology areas 
+at various levels of technology and product specificity. An SRG provides DoD 
+specificity to CCI requirements (organizationally defined parameters). An 
+SRG is used by DISA FSO and vendor guide developers to build Security 
+Technical Implementation Guides (STIGs). There are basically two types 
+of SRGs. The first group are the four CORE SRGs which deal with Applications, 
+Networking Devices, Operating Systems, and Policy. The second group are the 
+Technology specific SRGs. A Technology specific SRG is a child of a CORE SRG. 
+For example, the Database SRG was derived from the requirements in the 
+Application SRG.
+
+Security Requirements Guides (SRGs) - Current List:
+http://iase.disa.mil/srgs/u_updated_srg_tim_overview.ppt
+Application Server SRG
+Database Security Requirements Guide (SRG)
+Domain Name System (DNS)
+Firewall SRG
+Intrusion Detection and Prevention System
+Mobile Applications SRG
+Mobile Application Store SRG
+Mobile Policy SRG
+Network Device Management (Draft)
+Router SRG (Draft)
+UNIX OS SRG
+Web Server SRG
+
+
+Control Correlation Identifier (CCI)
+http://iase.disa.mil/cci/index.html
+The Control Correlation Identifier (CCI) provides a standard identifier and description 
+for each of the singular, actionable statements that comprise an IA control or IA best 
+practice. CCI bridges the gap between high-level policy expressions and low-level 
+technical implementations. CCI allows a security requirement that is expressed in 
+a high-level policy framework to be decomposed and explicitly associated with the 
+low-level security setting(s) that must be assessed to determine compliance with 
+the objectives of that specific security control. This ability to trace security 
+requirements from their origin (e.g., regulations, IA frameworks) to their low-level 
+implementation allows organizations to readily demonstrate compliance to multiple 
+IA compliance frameworks. CCI also provides a means to objectively rollup and 
+compare related compliance assessment results across disparate technologies.
+
+A draft version of the CCI List conforming to CCI version 2 is now available. 
+This list contains CCIs derived from NIST SP 800-53.
+http://iase.disa.mil/cci/u_cci_list.zip
+http://iase.disa.mil/cci/u_draft_cci_specification_v2r0.2.zip
+http://iase.disa.mil/cci/u_cci_process_v1r0.1.pdf
+http://iase.disa.mil/cci/u_cci_comment_matrix.xls
+
+
+Security Technical Implementation Guides (STIGs)
+http://iase.disa.mil/stigs/index.html
+The Security Technical Implementation Guides (STIGs) and the NSA Guides are the 
+configuration standards for DOD IA and IA-enabled devices/systems. Since 1998, 
+DISA Field Security Operations (FSO) has played a critical role enhancing the 
+security posture of DoD's security systems by providing the Security Technical 
+Implementation Guides (STIGs). The STIGs contain technical guidance to "lock down" 
+information systems/software that might otherwise be vulnerable to a malicious 
+computer attack.
+
+STIG Viewing Guide Quick Ref
+http://iase.disa.mil/stigs/downloads/pdf/u_stig_viewer_quick_reference_guide_v1.0.1.pdf
+
+STIGs Master List (A to Z)
+http://iase.disa.mil/stigs/a-z.html
+
+
+Security Content Automation Protocol (SCAP) Content and Tools
+Various SCAP benchmarks are available, but specific SCAP content is *PKI only
+
+
+
+
+
