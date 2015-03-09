@@ -23,10 +23,10 @@
   * upstreamable changes vs local changes
     * git branch
     * overlay repo
-  * external toolchain
   * configuration
     * toplevel system
       * target selection
+      * toolchain selection (builtin or external)
       * package selection
       * rootfs format
     * key packages (busybox, kernel, uclibc)
@@ -40,3 +40,4 @@
     * static devices
     * file permissions/ownership
     * extra user accounts
+    * post-build / post-image scripts
