@@ -24,8 +24,8 @@ Slides
 
 .svg format, produced in Inkscape with JessyInk extension (http://wiki.inkscape.org/wiki/index.php/Tools#JessyInk)
 
-`prebuilt/buildroot_paths.svg`_ - fonts converted to paths (viewable in browsers)
-`buildroot/buildroot.svg`_ - non-embedded fonts, for editing (need proper fonts installed)
+`prebuilt/buildroot_paths.svg <prebuilt/buildroot_paths.svg>`_ - fonts converted to paths (viewable in browsers)
+`buildroot/buildroot.svg <buildroot/buildroot.svg>`_ - non-embedded fonts, for editing (need proper fonts installed)
 
 Notes on .svg slides
 --------------------
@@ -58,5 +58,5 @@ the latest NIST standards, guidance, and risk management framework.
 Slides
 ------
 
-`prebuilt/security_assessment_slides.pdf`_
-`security_IoT/security_assessment_slides.odp`_
+`prebuilt/security_assessment_slides.pdf <prebuilt/security_assessment_slides.pdf>`_
+`security_IoT/security_assessment_slides.odp <security_IoT/security_assessment_slides.odp>`_
