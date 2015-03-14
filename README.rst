@@ -24,9 +24,9 @@ Slides
 
 .svg format, produced in Inkscape with JessyInk extension (http://wiki.inkscape.org/wiki/index.php/Tools#JessyInk)
 
-`prebuilt/buildroot_paths.svg <prebuilt/buildroot_paths.svg?raw=true>`_ - fonts converted to paths (viewable in browsers)
+`prebuilt/buildroot_paths.svg <prebuilt/buildroot_paths.svg>`_ - fonts converted to paths (viewable in browsers)
 
-`buildroot/buildroot.svg <buildroot/buildroot.svg?raw=true>`_ - non-embedded fonts, for editing (need proper fonts installed)
+`buildroot/buildroot.svg <buildroot/buildroot.svg>`_ - non-embedded fonts, for editing (need proper fonts installed)
 
 Notes on .svg slides
 --------------------
