@@ -38,7 +38,7 @@ Notes on .svg slides
   * probably already installed with recent Inkscape versions (look for /usr/share/inkscape/extensions/jessyInk.js)
 
 
-Security Architecture in the IOT Age
+Security Architecture in the IoT Age
 ====================================
 
 Abstract
